@@ -1,4 +1,4 @@
-ame: example-environment
+name: example-environment
 channels:
   - conda-forge
   - bioconda
@@ -17,3 +17,7 @@ dependencies:
   - r-tidyverse
   - r-plotly
   - r-stringr
+  - r-caret
+  - r-randomForest
+  - r-kernlab
+  - r-ellipse
